@@ -26,6 +26,7 @@ El repositorio contiene los siguientes archivos principales:
 * AluraStoreLatam.ipynb: Script de Python con todo el código de análisis y gráficos
 * README.md: Documentación del proyecto
 * Base-de-datos-challenge1-latam: Carpeta sugerida para guardar la base de datos utilizada en el proyecto
+* InformeFinal: Informe final del proyecto
 
 ### Insights y Visualizaciones
 
@@ -39,17 +40,23 @@ A continuación, se presentan los hallazgos clave del análisis realizado en Pyt
 
 * Conclusión: En términos de ingresos brutos, la Tienda 4 es la menos eficiente.
 
+![alt text](image.png)
+
 #### 2. Distribución de Ventas por Categoría
 
 * Análisis de qué tipos de productos generan más ingresos en la tienda menos eficiente (Tienda 4).
 
 * Hallazgo: Las categorías de Electrónicos y Muebles dominan las ventas, pero el volumen general es bajo comparado con otras sucursales.
 
+![alt text](image-1.png)
+
 #### 3. Calificación Promedio de Clientes
 
 * Evaluación de la satisfacción del cliente basada en reseñas del 1 al 5.
 
 * Hallazgo: Aunque todas las tiendas tienen buenas calificaciones (superiores a 4.0), la satisfacción por sí sola no compensa la baja facturación de la Tienda 4.
+
+![alt text](image-2.png)
 
 #### 4. Otros Hallazgos
 
